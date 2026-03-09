@@ -1,0 +1,17 @@
+{
+  "name": "handonweb-privacy-policy",
+  "version": "1.1.0",
+  "description": "Generate a GDPR-compliant privacy policy template with your company details filled in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"const x = require('./index.js'); console.log(typeof x)\""
+  },
+  "keywords": ["privacy-policy", "gdpr", "generator", "handonweb", "uk"],
+  "author": "Hand On Web Ltd <outreach@handonweb.com> (https://www.handonweb.com)",
+  "license": "MIT",
+  "homepage": "https://www.handonweb.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hand-On-Web-Ltd/privacy-policy-generator.git"
+  }
+}
